@@ -1,0 +1,5 @@
+assignment,role,hour_spread,evening_shift_spread
+id_order,desk,32.0,4
+id_order,supervisor,28.0,4
+balanced,desk,4.0,2
+balanced,supervisor,8.0,1

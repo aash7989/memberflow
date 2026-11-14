@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "data_provenance": "synthetic",
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "evaluation_seeds": [
+    1000,
+    1001,
+    1002,
+    1003,
+    1004
+  ],
+  "replications_per_scenario": 5,
+  "python": "3.12.8",
+  "command": "python -m memberflow.experiment --replications 5 --output examples"
+}

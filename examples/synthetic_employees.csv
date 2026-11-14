@@ -1,0 +1,12 @@
+employee_id,role,available_start,available_end,hourly_rate,max_daily_hours,max_weekly_hours
+D01,desk,0,720,18.0,8,32
+D02,desk,0,720,18.0,8,32
+D03,desk,0,720,18.0,8,32
+D04,desk,0,720,18.0,8,32
+D05,desk,0,720,18.0,8,32
+D06,desk,0,720,18.0,8,32
+D07,desk,240,720,18.0,8,32
+D08,desk,0,480,18.0,8,32
+S01,supervisor,0,720,25.0,8,32
+S02,supervisor,0,720,25.0,8,32
+S03,supervisor,0,720,25.0,8,32

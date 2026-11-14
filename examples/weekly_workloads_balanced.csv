@@ -1,0 +1,12 @@
+employee_id,role,weekly_hours,evening_shifts
+D01,desk,16.0,1
+D02,desk,16.0,1
+D03,desk,16.0,1
+D04,desk,16.0,1
+D05,desk,16.0,2
+D06,desk,12.0,2
+D07,desk,16.0,2
+D08,desk,12.0,0
+S01,supervisor,24.0,2
+S02,supervisor,20.0,1
+S03,supervisor,16.0,2
